@@ -1,0 +1,9 @@
+c:\users\mts\documents\visual studio 2015\Projects\Marketer\Marketer\bin\Debug\Marketer.exe.config
+c:\users\mts\documents\visual studio 2015\Projects\Marketer\Marketer\obj\Debug\Marketer.csprojResolveAssemblyReference.cache
+c:\users\mts\documents\visual studio 2015\Projects\Marketer\Marketer\obj\Debug\Marketer.Form1.resources
+c:\users\mts\documents\visual studio 2015\Projects\Marketer\Marketer\obj\Debug\Marketer.Properties.Resources.resources
+c:\users\mts\documents\visual studio 2015\Projects\Marketer\Marketer\obj\Debug\Marketer.csproj.GenerateResource.Cache
+c:\users\mts\documents\visual studio 2015\Projects\Marketer\Marketer\bin\Debug\Marketer.exe
+c:\users\mts\documents\visual studio 2015\Projects\Marketer\Marketer\bin\Debug\Marketer.pdb
+c:\users\mts\documents\visual studio 2015\Projects\Marketer\Marketer\obj\Debug\Marketer.exe
+c:\users\mts\documents\visual studio 2015\Projects\Marketer\Marketer\obj\Debug\Marketer.pdb

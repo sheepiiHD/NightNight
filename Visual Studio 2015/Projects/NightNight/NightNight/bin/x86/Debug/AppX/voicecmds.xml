@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+  <CommandSet xml:lang=""en-us" Name="CustomCommandSet_en-us">
+    <CommandPrefix>password code</CommandPrefix>
+     <Example>Command List here.</Example>
+     
+     <Command Name="SpyProtocol">
+       <Example>Protocol</Example>
+
+       <ListenFor>225224</ListenFor>
+
+       <Feedback>Initiating Protocol 1030786</Feedback>
+
+       <Navigate/>
+
+     </Command>
+
+    </CommandSet>
+
+</VoiceCommands>
